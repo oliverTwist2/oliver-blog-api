@@ -138,6 +138,19 @@ https://oliver-blog-api.herokuapp.com/
 - Route: api/post/:id
 - Method: DELETE
 
+## Validations
+
+### Register validations
+- Email: Minimum of 6 characters, required and must be an email i.e .gmail.com, .yahoo.com etc
+- First name: Min. of 2 characters and required
+- Last name: Min. of 2 characters and required
+- Password: String, min. of 4
+
+### Login validation
+- Email: Minimum of 6 characters, required and must be an email i.e .gmail.com, .yahoo.com etc
+- Password: String, min. of 4
+
+
 ## Contributor
 OLIVER IKEGAH
 
