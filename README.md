@@ -121,12 +121,13 @@ https://oliver-blog-api.herokuapp.com/
 - Route: api/post/
 - Method: POST
 - Body: 
+        
         {
-            "title": " ",
-            "description": " ",
-            "tag": " ",
-            "body": " ",
-            "author": " ",
+            "title": "  ",
+            "description": "  ",
+            "body": "   ",
+            "tags": "  ",
+            "author": "  ",
           }
           
 ### Update blog
