@@ -150,6 +150,12 @@ https://oliver-blog-api.herokuapp.com/
 - Email: Minimum of 6 characters, required and must be an email i.e .gmail.com, .yahoo.com etc
 - Password: String, min. of 4
 
+## Authentication
+JSON Web Token (JWT)
+
+## Authorization
+Pass in Bearer Token
+
 
 ## Contributor
 OLIVER IKEGAH
